@@ -119,7 +119,7 @@ public class Main {
 //            System.out.println("handled exception here " + e);
 //        }
 //        finally {
-//            System.out.println("Irrespective of exception Fianlly block will execute ");
+//            System.out.println("Irrespective of exception Finally block will execute ");
 //        }
 
 
@@ -157,7 +157,7 @@ public class Main {
 
 //this is 1 topic covered
 //      public static void add(int a, int b){
-//          System.out.println("adding "+ (a+b));
+//          System.out.println("adding " + (a+b));
 //      }
 
 }
